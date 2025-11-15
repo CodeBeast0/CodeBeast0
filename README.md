@@ -5,9 +5,9 @@ I build full-stack web applications mainly using the MERN stack (MongoDB, Expres
 
 Tech & Tools I use:
 
-Frontend: React, Tailwind CSS, DaisyUI, ShadCN UI
+Frontend: React, Tailwind CSS, DaisyUI, Material UI
 
-Backend: Node.js, Express, REST APIs, Clerk
+Backend: Node.js, Express, REST APIs
 
 Database: MongoDB,MYSQL
 
